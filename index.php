@@ -69,7 +69,7 @@ if(!empty($selecionado)){
     <head>
         <meta charset="UTF-8">
         <META name="viewport" content= "width=device-width">
-        <title>sistema da mofia</title>
+        <title>meu sistema</title>
 
     </head>
     <body>
